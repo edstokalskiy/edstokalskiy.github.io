@@ -1,0 +1,15 @@
+webpackHotUpdate("app",{
+
+/***/ "./store/mutations.js":
+/*!****************************!*\
+  !*** ./store/mutations.js ***!
+  \****************************/
+/*! exports provided: default */
+/***/ (function(module, __webpack_exports__, __webpack_require__) {
+
+"use strict";
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony default export */ __webpack_exports__[\"default\"] = ({\n  increment: function increment(state) {\n    state.counter++;\n  },\n  login: function login(state, uid) {\n    state.uid = uid;\n  }\n});//# sourceURL=[module]\n//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJmaWxlIjoiLi9zdG9yZS9tdXRhdGlvbnMuanMuanMiLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zdG9yZS9tdXRhdGlvbnMuanM/MDE0YSJdLCJzb3VyY2VzQ29udGVudCI6WyJleHBvcnQgZGVmYXVsdCB7XHJcbiAgICBpbmNyZW1lbnQoc3RhdGUpIHtcclxuICAgICAgICBzdGF0ZS5jb3VudGVyKytcclxuICAgIH0sXHJcblxyXG4gICAgbG9naW4oc3RhdGUsIHVpZCkge1xyXG4gICAgICAgIHN0YXRlLnVpZCA9IHVpZDtcclxuICAgIH1cclxufSJdLCJtYXBwaW5ncyI6IkFBQUE7QUFBQTtBQUNBO0FBQ0E7QUFDQTtBQUVBO0FBQ0E7QUFDQTtBQVBBIiwic291cmNlUm9vdCI6IiJ9\n//# sourceURL=webpack-internal:///./store/mutations.js\n");
+
+/***/ })
+
+})
